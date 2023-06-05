@@ -1,7 +1,6 @@
-<div align='center'><img style="width:100%" src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/0448f7df-1924-4dd8-91f3-67a82f1de7c6'/></div>
+<div align='center'><img style="width:100%" src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/f1c53c39-a89d-4cfc-8663-1e09a1be891f'/></div>
 
 <h2>Project Overview</h2>
-
 
 <p><b>Crwn-clothing</b> is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
  <br/>
@@ -19,8 +18,6 @@ Technologies that I used to develop this app
 - [Firebase](https://firebase.google.com/)
 - [Styled Component](https://styled-components.com/)
 
-
-
 <br>
 
 <h2>Screenshots of the Project 📸</h2>
@@ -28,35 +25,27 @@ Technologies that I used to develop this app
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/5de0dbf3-aee9-4a5e-b246-abfe7402185c'/>
+<img src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/19ce3d6a-feb2-482e-92a4-e1619cd34800'/>
 
 
-<br><br>
-
-<h3 align='center'>View Post 🪧</h3>
+<h3 align='center'>Shop Page 🛒</h3>
 
 <div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/5eeda8d0-884e-4e57-9501-9d873bd2ba81'/>
+<img src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/6cada661-af8c-4cf2-9b83-605b0e2bb8cd'/>
 </div>
-  <h3 align='center'>Author Post 🪧</h3>
+  <h3 align='center'>Shop Page - Category Item 🛒</h3>
 
 <div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/57677571-0ce4-4689-8434-7a3c9fed92f1'/>
+<img src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/8080043a-d882-420f-82ba-5abeb49784a5'/>
 </div>
-  <h3 align='center'>Create Post 👉</h3>
+  <h3 align='center'>Authentication Page🪪 </h3>
 
 <div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/97172ce7-b823-4465-9ad6-7af22d7d3a91'/>
+<img src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/36d87ff1-b37f-4f97-b7b9-99ba5d75ebf2'/>
 </div>
-  <h3 align='center'>Log-in Page ➡️</h3>
+  <h3 align='center'>Check-out Page ➡️</h3>
 
 <div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/2b9d348c-7529-4f5d-b1f8-8360295bae74'/>
+<img src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/b329b50f-3af2-4997-9e9d-056bb154ba01'/>
 </div>
 
-  </div>
-  <h3 align='center'>Sign-up Page ➡️</h3>
-
-<div align='center'>
-<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/bb0a1830-f526-4fdf-b764-4d4324ab2fdb'/>
-</div>
