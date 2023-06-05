@@ -1,8 +1,8 @@
-<div align='center'><img style="width:100%" src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/f1c53c39-a89d-4cfc-8663-1e09a1be891f'/></div>
+<div align='center'><img style="width:40%" src='https://github.com/arrabisPiolo/crwn-clothing/assets/101545333/f1c53c39-a89d-4cfc-8663-1e09a1be891f'/></div>
 
 <h2>Project Overview</h2>
 
-<p><b>Crwn-clothing</b> is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+<p><b>Crwn-clothing</b> is an E-commerce application similar to Shopify using React, React Router, Context API, Firebase, more. 
  <br/>
 </p>
 
