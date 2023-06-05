@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+<div align='center'><img style="width:100%" src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/0448f7df-1924-4dd8-91f3-67a82f1de7c6'/></div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Project Overview</h2>
 
-## Available Scripts
 
-In the project directory, you can run:
+<p><b>Crwn-clothing</b> is an E-commerce application similar to Shopify using React, Redux, React Router, Context API, Firebase, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+ <br/>
+</p>
 
-### `npm start`
+👉 Live Demo: <a href='https://peppy-hummingbird-35a55f.netlify.app/'>Crwn-Clothing Demo</a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3>Build with:</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Technologies that I used to develop this app
 
-### `npm test`
+- [ReactJS](https://reactjs.org)
+- [Sass](https://sass-lang.com/)
+- [React Router](https://github.com/ReactTraining/react-router)
+- [Firebase](https://firebase.google.com/)
+- [Styled Component](https://styled-components.com/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>Screenshots of the Project 📸</h2>
+<br>
+<h3 align='center'>Home Page 🏡</h3>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/5de0dbf3-aee9-4a5e-b246-abfe7402185c'/>
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br><br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<h3 align='center'>View Post 🪧</h3>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/5eeda8d0-884e-4e57-9501-9d873bd2ba81'/>
+</div>
+  <h3 align='center'>Author Post 🪧</h3>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/57677571-0ce4-4689-8434-7a3c9fed92f1'/>
+</div>
+  <h3 align='center'>Create Post 👉</h3>
 
-## Learn More
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/97172ce7-b823-4465-9ad6-7af22d7d3a91'/>
+</div>
+  <h3 align='center'>Log-in Page ➡️</h3>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/2b9d348c-7529-4f5d-b1f8-8360295bae74'/>
+</div>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  </div>
+  <h3 align='center'>Sign-up Page ➡️</h3>
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align='center'>
+<img src='https://github.com/arrabisPiolo/Article-Hive-Firebase/assets/101545333/bb0a1830-f526-4fdf-b764-4d4324ab2fdb'/>
+</div>
